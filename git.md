@@ -73,8 +73,8 @@ set PATH
 16. git remote -v
 17. git push origin
 18. git pull
-19. 
-20. 
+19. ssh-keygen -t rsa -C "your_email@example.com"   //创建SSH
+20. ssh -T git@github.com       //查看SSH是否有效
 21. 
 22. 
 23. 
